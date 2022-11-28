@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+}
+.logo
+{
+    margin: 20px 550px;
+    
+}
+ul{
+    list-style-type: none;
+    margin-block-end: 0em;
+    margin: 5px;
+}
+button
+{
+    border-radius: 3px;
+    border-width: 1px;
+    padding: 1px 10px;
+}
+.container
+{
+    margin: 10px 100px;
+    background-color: rgb(220, 220, 220);
+    text-align: center;
+    list-style: none;
+    position: relative;
+    padding: 0px 0px 1px 0px;
+    
+}
+.box1
+{
+    background-color: rgba(126,229,218,255);
+    float: left;
+    width: 36.2%;
+    margin-top: 4px;
+    margin-right: 0.2%;
+    height: 90px;
+}
+.box2
+{
+    background-color: rgba(112,204,194,255);
+    float: left;
+    width: 19.2%;
+    margin-top: 4px;
+    margin-right: 0.2%;
+    height: 90px;
+}
+.box3
+{
+    margin-top: 4px;
+    background-color: rgba(98,179,170,255);
+    float: left;
+    width: 44.2%;
+    height: 90px;
+}
+.copyright
+{
+    text-align: center;
+    padding: 85px;
+    background-color: white;
+    font-size: 17px;
+}
+textarea {
+    resize: none;
+}
